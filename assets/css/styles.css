@@ -311,16 +311,28 @@ img {
   width: 95%;
 }
 
+.skills__react {
+  width: 85%;
+}
+
+.skills__node {
+  width: 80%;
+}
+
+.skills__java {
+  width: 85%;
+}
+
+.skills__mongodb {
+  width: 80%;
+}
+
 .skills__css {
   width: 85%;
 }
 
-.skills__js {
+.skills__javascript {
   width: 65%;
-}
-
-.skills__ux {
-  width: 85%;
 }
 
 .skills__img {
